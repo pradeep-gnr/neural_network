@@ -1,0 +1,6 @@
+
+This repo consists of simple neural network that I tried to implement just to understand the backpropogation algorithm in more detail.
+
+It uses a Cross entropy loss function for computing classification accuracy and a logistic activation layer.
+
+Also attached is a simple demo for me to visualize neural network decision boundaries.
